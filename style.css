@@ -109,12 +109,12 @@ a:focus {
 }
 
 a:link {
-    color: #b30332;
+    color: #fff;
     text-decoration: none;
 }
 
 a:visited {
-    color: #b30332;
+    color: #fff;
     text-decoration: none;
 }
 
